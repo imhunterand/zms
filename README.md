@@ -2,7 +2,6 @@
 
 
 ```
-mkdir sms-server
 cd zms
 npm install
 npm install -g nodemon
